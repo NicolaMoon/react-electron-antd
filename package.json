@@ -1,5 +1,5 @@
 {
-  "name": "player",
+  "name": "react-electron-antd",
   "description": "CRA + Electron sitting in a tree",
   "version": "0.0.1",
   "private": true,
